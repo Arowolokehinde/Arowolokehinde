@@ -11,9 +11,5 @@
 - LinkedIn: [www.linkedin.com/in/kehinde-arowolo11software-engineer](https://www.linkedin.com/in/kehinde-arowolo11software-engineer)
 
 ⚡ Fun fact: I enjoy tackling complex coding challenges and staying up-to-date with the latest industry trends.
-
-<!---->
-Arowolokehinde/Arowolokehinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
-
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arowolokehinde&theme=github-dark)](https://git.io/streak-stats)
