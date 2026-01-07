@@ -1,6 +1,6 @@
 👋 Hi, I’m @Arowolokehinde
 
-👀 I’m interested in full-stack development, with a focus on backend technologies like Node.js, TypeScript, and blockchain, as well as frontend technologies including HTML, CSS, and Python.
+👀 I’m interested in full-stack development, with a focus on backend technologies like Rust, Python, TypeScript, and blockchain, as well as frontend technologies including React.
 
 🌱 I’m currently learning advanced Node.js techniques, blockchain development, and refining my skills in frontend frameworks.
 
